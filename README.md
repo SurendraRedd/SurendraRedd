@@ -10,14 +10,16 @@
 - 🥅 Quote: Work hard on every waking hour
 - ⚡ Fun fact: I love to play cricket / watching movies
 
+<!-- Connect with me -->
 ### Connect with me:
-n
-[<img align="left" alt="learnups2020" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[<img align="left" alt="learnups2020" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://learnups2020.wordpress.com/]
 [<img align="left" alt="LeArN2020 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="surendraece402 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" | surendra-reddy-55208948" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="surendra-reddy-55208948 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<!-- Connect with me -->
 
 <!--
 **SurendraRedd/SurendraRedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
