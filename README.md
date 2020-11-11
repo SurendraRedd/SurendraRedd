@@ -3,21 +3,19 @@
 [![Website](https://img.shields.io/website?label=learnups2020.com&style=for-the-badge&url=https%3A%2F%2Flearnups2020.wordpress.com)](https://learnups2020.wordpress.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/surendraece402?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSurendraRedd&screen_name=SurendraRedd)
 
-## I'm a Software Developer, Tester and Learner!!
+## I'm a Product Owner, Developer, Tester and Learner!!
 
 - 🔭 Refer the Blog Post on latest technologies https://learnups2020.wordpress.com/
-- 🌱 I’m currently trying to lear everything 🤣 not sure how much i can able to remember all the concepts 🤣
-- 👯 Suggestions & Feedback Accepted
-- 🥅 2020: Work hard on every waking hour
+- 🌱 I’m currently trying to learn everything 🤣 not sure how much i can able to remember all the concepts 🤣
+- 🥅 Quote: Work hard on every waking hour
 - ⚡ Fun fact: I love to play cricket / watching movies
 
 ### Connect with me:
 n
 [<img align="left" alt="learnups2020" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="learnups2020 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="LeArN2020 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="surendraece402 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt=" | surendra-reddy-55208948" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
