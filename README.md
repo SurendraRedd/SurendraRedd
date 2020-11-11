@@ -1,6 +1,6 @@
 ### Hi there, I'm Surendra - aka [LeArN2020][website] 👋
 
-[![Website](https://img.shields.io/website?label=learnups2020.com&style=for-the-badge&url=https://learnups2020.wordpress.com/)](https://learnups2020.wordpress.com/)
+[![Website](https://img.shields.io/website?label=learnups2020.com&style=for-the-badge&url=https%3A%2F%2Flearnups2020.wordpress.com)](https://learnups2020.wordpress.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/surendraece402?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSurendraRedd&screen_name=SurendraRedd)
 
 <!--
