@@ -43,6 +43,3 @@ Here are some ideas to get you started:
 [youtube]: https://youtube.com/channel/UCgh4gTkk2iJOt6CTiseP_ug
 [twitter]: https://twitter.com/surendraece402
 [linkedin]: https://www.linkedin.com/in/surendra-reddy-55208948/
-
-<script src="https://github.com/SurendraRedd/SurendraRedd/blob/main/surendraredd-2020.stl"></script>
-
