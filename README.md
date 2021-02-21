@@ -4,6 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/surendraece402?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsurendraece402&screen_name=surendraece402)
 
 ![Work Hard on Every Waking Hour](https://github.com/SurendraRedd/SurendraRedd/blob/main/Work.gif?raw=true)
+![Details](https://skyline.github.com/surendraredd/2020)
 
 ## I'm a Product Owner, Developer, Tester and Learner!!
 
