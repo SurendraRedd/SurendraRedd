@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=SurendraRedd&theme=dracula" />
+
 [website]: https://learnups2020.wordpress.com/
 [youtube]: https://youtube.com/channel/UCgh4gTkk2iJOt6CTiseP_ug
 [twitter]: https://twitter.com/surendraece402
