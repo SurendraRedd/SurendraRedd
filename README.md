@@ -13,6 +13,8 @@
 - 🥅 Quote: Work hard on every waking hour
 - ⚡ Fun fact: I love to play cricket / watching movies
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=SurendraRedd&theme=dracula" />
+
 <!-- Connect with me -->
 ### Connect with me:
 
@@ -38,8 +40,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=SurendraRedd&theme=dracula" />
 
 [website]: https://learnups2020.wordpress.com/
 [youtube]: https://youtube.com/channel/UCgh4gTkk2iJOt6CTiseP_ug
