@@ -1,9 +1,10 @@
-### Hi there, I'm Surendra - aka [Surendra Reddy] 👋
+### Hi there, I'm Surendra - aka [Surendra Reddy] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Website](https://img.shields.io/website?label=learnups2020.com&style=for-the-badge&url=https%3A%2F%2Flearnups2020.wordpress.com)](https://learnups2020.wordpress.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/surendraece402?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsurendraece402&screen_name=surendraece402)
 
 ![Work Hard on Every Waking Hour](https://github.com/SurendraRedd/SurendraRedd/blob/main/Work.gif?raw=true)
+
 
 
 ## I'm a Product Owner, Developer, Tester and Learner!!
@@ -13,6 +14,8 @@
 - 🥅 Quote: Work hard on every waking hour
 - ⚡ Fun fact: I love to play cricket / watching movies
 
+<br />
+<br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SurendraRedd&theme=dracula" />
 
 <!-- Connect with me -->
