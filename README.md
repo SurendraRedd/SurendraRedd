@@ -5,6 +5,7 @@
 
 <!-- ![Work Hard on Every Waking Hour](https://github.com/SurendraRedd/SurendraRedd/blob/main/Work.gif?raw=true)  -->
 
+<a href="https://app.daily.dev/SurendraRedd"><img src="https://api.daily.dev/devcards/38066581f8f24765b22ff9fc9d5df496.png?r=1mx" width="400" alt="Surendra Reddy's Dev Card"/></a>
 
 ![Surendra Reddy, Product Owner, Developer, Tester & Learner](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Product%20Owner%2C%20Developer%2C%20Tester%20%26%20Learner&title=Surendra%20Reddy)
 
