@@ -5,8 +5,6 @@
 
 <!-- ![Work Hard on Every Waking Hour](https://github.com/SurendraRedd/SurendraRedd/blob/main/Work.gif?raw=true)  -->
 
-<a href="https://app.daily.dev/SurendraRedd"><img src="https://api.daily.dev/devcards/38066581f8f24765b22ff9fc9d5df496.png?r=1mx" width="400" alt="Surendra Reddy's Dev Card"/></a>
-
 ![Surendra Reddy, Product Owner, Developer, Tester & Learner](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Product%20Owner%2C%20Developer%2C%20Tester%20%26%20Learner&title=Surendra%20Reddy)
 
 ## I'm a Product Owner, Developer, Tester and Learner!!
@@ -31,13 +29,15 @@
 <br />
 <br />
 
-<a href="https://www.buymeacoffee.com/surendra1985" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-<br />
-<br />
+<a href="https://app.daily.dev/SurendraRedd"><img align="center" src="https://api.daily.dev/devcards/38066581f8f24765b22ff9fc9d5df496.png?r=1mx" width="400" alt="Surendra Reddy's Dev Card"/></a>
 
 ![Visitor Counter for SurendraRedd](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=SurendraRedd)
+
+<br />
+<br />
+
+<a href="https://www.buymeacoffee.com/surendra1985" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
   
 <!-- Connect with me -->
 
