@@ -14,6 +14,14 @@
 - 🥅 Quote: Work hard on every waking hour
 - ⚡ Fun fact: I love to play cricket / watching movies
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=SurendraRedd&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SurendraRedd&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SurendraRedd&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SurendraRedd&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <br />
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SurendraRedd&theme=dracula" />
@@ -40,6 +48,7 @@
 
 <a href="https://www.buymeacoffee.com/surendra1985" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 <!-- Connect with me -->
 
