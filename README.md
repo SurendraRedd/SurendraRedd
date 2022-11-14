@@ -5,7 +5,7 @@
 
 <!-- ![Work Hard on Every Waking Hour](https://github.com/SurendraRedd/SurendraRedd/blob/main/Work.gif?raw=true)  -->
 
-![Surendra Reddy, Product Owner, Developer, Tester & Learner](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Product%20Owner%2C%20Developer%2C%20Tester%20%26%20Learner&title=Surendra%20Reddy)
+#![Surendra Reddy, Product Owner, Developer, Tester & Learner](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?#subtitle=Product%20Owner%2C%20Developer%2C%20Tester%20%26%20Learner&title=Surendra%20Reddy)
 
 ## I'm a Product Owner, Developer, Tester and Learner!!
 
