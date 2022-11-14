@@ -32,6 +32,7 @@
 [<img align="left" alt="LeArN2020 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LeArN2020 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<!--
 <br />
 <br />
 
@@ -41,6 +42,7 @@
 
 <br />
 <br />
+-->
 
 ![image](https://user-images.githubusercontent.com/37290660/147943533-9c9d4fb2-5b4a-4f8f-bfda-a717393a8f18.png)
 
