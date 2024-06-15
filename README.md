@@ -5,7 +5,7 @@
 
 <!-- ![Work Hard on Every Waking Hour](https://github.com/SurendraRedd/SurendraRedd/blob/main/Work.gif?raw=true)  -->
 
-## I'm a Product Owner, Developer, Tester and Learner!!
+## I'm a Architect, Product Owner, Developer, Tester and Learner!!
 
 - 🔭 Refer the Blog Post on latest technologies https://learnups2020.wordpress.com/
 - 🌱 I’m currently trying to learn everything 🤣 not sure how much i can able to remember all the concepts 🤣
